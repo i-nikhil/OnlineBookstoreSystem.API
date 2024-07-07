@@ -1,0 +1,2 @@
+The Mini Online Bookstore System is a simplified RESTful API that manages books, users, and orders. It includes functionalities to add and display books, register users, and handle order placements and calculations, demonstrating object-oriented principles and basic error handling without a GUI or database backend.
+![image](https://github.com/i-nikhil/OnlineBookstoreSystem.API/assets/66352372/bf643cad-518f-4047-8f06-9ad490fd14aa)
